@@ -1,0 +1,27 @@
+Bom professor, eu envie o arquivo para você, depois que ele carregou eu peguei e abri o codigo pelo teams, mas as imagens estavam dando erro, por isso eu coloquei o codigo salvo aqui caso o senhor queira ver com as imagens.
+
+Codigo HTML:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 01 - PWI</title>
+</head>
+<body>
+    <h1>Atividade02 PWI</h1>
+    <h2>Exercício 01</h2>
+    <p>Caros amigos, a execução dos pontos do programa talvez venha a ressaltar a relatividade dos índices pretendidos.</p>
+    <p>Ainda assim, existem dúvidas a respeito de como o desenvolvimento contínuo de distintas formas de atuação estimula a padronização do processo de comunicação como um todo.</p>
+    <img src="imagens/videogame.jpg" style="width: 200px; height: 200px;" alt="2 Controles de video game">
+    <br>
+    <img src="imagens/coracao.png" style="width: 94px;" alt="Emoji de coração">
+    <br>
+    <hr>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris aliquet justo quis elit volutpat tristique. Nullam feugiat, diam vel elementum finibus, ipsum elit molestie enim, mollis facilisis ipsum felis at enim. Pellentesque at ornare ante. Sed faucibus, quam nec aliquet pretium, massa lacus pretium nibh, et elementum ante arcu eu enim. Aliquam vitae ultrices tellus. Phasellus hendrerit commodo nisi quis vulputate. Ut accumsan mauris quis lacinia feugiat. Ut molestie, nulla id rutrum faucibus, nibh mi tristique orci, vitae malesuada diam dolor ut arcu. Suspendisse efficitur magna eget ligula pretium, eget vehicula turpis dapibus. Donec a lacus consectetur tortor molestie molestie eget non ex. Cras vulputate elit sit amet ligula rhoncus, ac porta est blandit. Nullam quis mauris eu mi cursus ultrices ac a mi. In nec neque vehicula, tempus mauris ut, tincidunt lectus. Nullam non tempus augue.</p>
+    <br>
+    <p>Nome: Gustavo Almeida Ribeiro dos Santos
+    <p>
+</body>
+</html>

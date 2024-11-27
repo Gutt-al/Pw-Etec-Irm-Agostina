@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 08 Tabelas</title>
+    <link rel="stylesheet" href="css/atividade08pwi.css">
+</head>
+<body>
+    <h1>Utilizando Tabelas</h1>
+    <table>
+        <caption style="text-align: left;">Lista de Produtos</caption>
+        <tr>
+            <th>Código</th>
+            <th>Produto</th>
+            <th>Unidade</th>
+            <th>Preço</th>
+        </tr>
+        <tr>
+            <td>00001</td>
+            <td>Banana</td>
+            <td>12</td>
+            <td>R$ 10,00</td>
+        </tr>
+        <tr>
+            <td>00002</td>
+            <td>Abacaxi</td>
+            <td>5</td>
+            <td>R$ 50,00</td>
+        </tr>
+        <tr>
+            <td>00003</td>
+            <td>Tomate</td>
+            <td>8</td>
+            <td>R$ 10,00</td>
+        </tr>
+        <tr>
+            <td>00004</td>
+            <td>Morango</td>
+            <td>20</td>
+            <td>R$ 135,35</td>
+        </tr>
+        <tr>
+            <td colspan="3">Total</td>
+            <td>R$ 205,35</td>
+        </tr>
+    </table>
+    <br>
+    <table>
+        <caption>Lista de Produtos</caption>
+        <tr>
+            <th>Porte</th>
+            <th colspan="2">Marca</th>
+            <th>Preço</th>
+        </tr>
+        <tr>
+            <td rowspan="4">Pequeno</td>
+        </tr>
+        <tr>
+            <td >Vestibulum</td>
+            <td><img src="imagens/vestibulum.png" alt="Ração Vestibulum"></td>
+            <td>R$ 5,00</td>
+        </tr>
+        <tr>
+            <td>Nunc</td>
+            <td><img src="imagens/Nunc.png" alt="Ração Nunc"></td>
+            <td>R$ 4,80</td>
+        </tr>
+        <tr>
+            <td>Golden</td>
+            <td><img src="imagens/Golden.png" alt="Ração Golden"></td>
+            <td>R$ 6,70</td>
+        </tr>
+    </table>
+</body>
+</html>
+
+CSS:
+
+table, th, td{
+    border: 1px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+tr:hover{
+    background-color: beige;
+}
+img{
+    width: 75px;
+}

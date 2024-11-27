@@ -1,0 +1,31 @@
+Html:
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares para visitar</title>
+    <link rel="stylesheet" href="css/atividade04pwi.css">
+</head>
+<body>
+    <h1>O que eu mais gosto em São Paulo</h1>
+    <img src="imagens/Paulista.jpg" alt="Avenida Paulista">
+    <br>
+    <img src="imagens/Madalena.jpg" alt="Bares da Vila madalena">
+    <br>
+    <img src="imagens/Ibira.jpg" alt="Parque Ibirapuera">
+    <br>
+    <p><b>Você esta conhecendo a cidade de São Paulo</b></p>
+</body>
+</html>
+
+CSS:
+
+body{ background-color: Salmon;}
+h1 { font-family: Arial, Helvetica, sans-serif; font-size: 30px; padding: 20px; text-align: center;}
+img {padding: 20px; width: 600px; margin-left: 600px; display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+p{font-size: 18px; font-family: Arial, Helvetica, sans-serif;}

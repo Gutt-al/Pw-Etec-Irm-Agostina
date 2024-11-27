@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="“Página destinada a 
+    novidades e inovações na escola">
+    <meta name="keywords" content="“inovação, escola, novidades, projetos, passeios, campeonatos, campeonatos escolares, noticias, cursos">
+    <title>Jornal da Inovação da Escola</title>
+</head>
+<body style="background-color: black;">
+    <h1 style="color: blue;">Incentivar</h1>
+    <h2 style="color: violet;">Avanço tecnológico </h2>
+    <p style="color: white;">O incentivo ao avanço tecnológico, assim como o desenvolvimento contínuo de 
+        distintas formas de atuação auxilia a preparação e a composição das condições 
+        inegavelmente apropriadas.</p>
+    <a href="https://lerolero.com/">Texto retirado de https://lerolero.com/</a>
+    <br/>
+    <p style="color: burlywood; text-align: right;">"Muitas vezes, as pessoas não sabem o que elas<br/> 
+        querem até que você mostre a elas."</p>
+        <p style="color: burlywood; text-align: right; font-size: 14px;">Steve Jobs</p>
+</body>
+</html>
